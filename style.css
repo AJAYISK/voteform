@@ -1,0 +1,22 @@
+  
+  body{
+background-image:url("flow.jpg");
+background-repeat: no-repeat;width:100%;
+background-size: cover;}
+.header{background-color: rgb(45, 112, 45);color:white;
+text-align: center;padding: 40px;
+margin:auto;}
+    input{border:2px solid rgb(67, 133, 67);}
+    .btn{background-color: none;}
+span{color:white;background-color:green;text-shadow:2px 2px 55px black;}
+    p{background-color:rgb(41, 145, 41);color:white;padding: 20px;}
+    code{color:black;}
+    a{color:white;}
+    h2{background-color: rgb(71, 138, 71);color: white;}
+    th{background-color: green;height:30px;}
+    td{background-color: white;color:black;}
+    .p2{border-style: groove;}
+    div{display: grid;justify-content: center;align-items:center;}
+    code{background-image:url("flow.jpg");color:white;}
+    .footer{background-color:rgb(85, 156, 75);padding:30px;margin-bottom: 0;}
+    
